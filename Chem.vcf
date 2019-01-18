@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N: Chemdry;;
+FN: Pat & John Green
+ORG:Chemdry Fingal
+TITLE:Owner
+EMAIL;type=INTERNET;type=WORK;type=pref:service@chemdry.ie
+EMAIL;type=INTERNET;type=WORK;type=pref:john@chemdry.ie
+TEL;type=WORK;type=VOICE:917-447-8474
+item1.URL;type=pref:chemdryfingal.ie
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
